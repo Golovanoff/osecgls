@@ -1,0 +1,3 @@
+[submodule "oscript_modules"]
+	path = oscript_modules
+	url = https://gitlab.gitlab.bcs.ru/backoffice/oscriptlib.git
